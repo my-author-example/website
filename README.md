@@ -2,8 +2,4 @@
 
 This is really awesome website
 
-Edit on example branch
-
-Now editing on update-release
-
-Update locally, then remotely
+Updates made on master on Github before rebase
