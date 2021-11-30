@@ -4,9 +4,7 @@ This is really awesome website
 
 Updates made on master on Github before rebase
 
-##Repository Purpose
+## Purpose
 
-This will be a change conflict.
-with whatever is on remote slide.
-this was edited loaclly.
- 
+The purpose of this file is to provide examples
+on how to use this Git and GitHub together.
